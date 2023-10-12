@@ -1,0 +1,7 @@
+/Users/michaeldriscoll/C_Sharp_Projects/ToDo_Page/bin/Debug/net6.0/publish/ToDo_Page
+/Users/michaeldriscoll/C_Sharp_Projects/ToDo_Page/bin/Debug/net6.0/publish/appsettings.Development.json
+/Users/michaeldriscoll/C_Sharp_Projects/ToDo_Page/bin/Debug/net6.0/publish/appsettings.json
+/Users/michaeldriscoll/C_Sharp_Projects/ToDo_Page/bin/Debug/net6.0/publish/ToDo_Page.dll
+/Users/michaeldriscoll/C_Sharp_Projects/ToDo_Page/bin/Debug/net6.0/publish/ToDo_Page.deps.json
+/Users/michaeldriscoll/C_Sharp_Projects/ToDo_Page/bin/Debug/net6.0/publish/ToDo_Page.runtimeconfig.json
+/Users/michaeldriscoll/C_Sharp_Projects/ToDo_Page/bin/Debug/net6.0/publish/ToDo_Page.pdb
